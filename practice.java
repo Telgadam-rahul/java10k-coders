@@ -39,5 +39,7 @@ public class practice {
         obj1.factorial(3);
         obj1.factorial(4);
         obj1.midchar("wonder");
+        System.out.println();
+        obj1.midchar("world");
     }
 }
