@@ -1,0 +1,136 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+<<<<<<< HEAD
+            "name": "C",
+            "request": "launch",
+            "mainClass": "C",
+            "projectName": "Java vs code_c57d4c57"
+=======
+            "name": "Amstrong",
+            "request": "launch",
+            "mainClass": "Amstrong",
+            "projectName": "java 10k coders_28a8113b"
+>>>>>>> 682f8e07b479380237fcdbae44c9d8c03a39c152
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+<<<<<<< HEAD
+=======
+        },
+        {
+            "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "Dog",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "anil",
+            "request": "launch",
+            "mainClass": "anil",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "average",
+            "request": "launch",
+            "mainClass": "average",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "currency",
+            "request": "launch",
+            "mainClass": "currency",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "day10",
+            "request": "launch",
+            "mainClass": "day10",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "day11",
+            "request": "launch",
+            "mainClass": "day11",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "per",
+            "request": "launch",
+            "mainClass": "per",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "ptr",
+            "request": "launch",
+            "mainClass": "ptr",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "si",
+            "request": "launch",
+            "mainClass": "si",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "squarecalulculator",
+            "request": "launch",
+            "mainClass": "squarecalulculator",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "sumaverage",
+            "request": "launch",
+            "mainClass": "sumaverage",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "sunny",
+            "request": "launch",
+            "mainClass": "sunny",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "thursday",
+            "request": "launch",
+            "mainClass": "thursday",
+            "projectName": "java 10k coders_28a8113b"
+        },
+        {
+            "type": "java",
+            "name": "unary",
+            "request": "launch",
+            "mainClass": "unary",
+            "projectName": "java 10k coders_28a8113b"
+>>>>>>> 682f8e07b479380237fcdbae44c9d8c03a39c152
+        }
+    ]
+}
