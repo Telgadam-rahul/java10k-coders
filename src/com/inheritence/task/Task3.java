@@ -13,10 +13,10 @@ class B extends A{
 public class Task3 {
 
 	public static void main(String[] args) {
-		A ref = new A();
-		ref = new B();
+		A ref = new B();
+		B  b = (B) ref.getmethod();
 		
-		ref.getmethod();
+		
 		
 		
 		
