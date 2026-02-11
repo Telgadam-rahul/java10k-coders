@@ -69,7 +69,8 @@ public class Example5 {
     obj1.login();
     obj1.logout();
     obj1.updateProfile();
-
+  User obj2 = new Instructor("qwsde", "null", "null", "null");
+    obj2.accessDashboard();
 }
 }
 
